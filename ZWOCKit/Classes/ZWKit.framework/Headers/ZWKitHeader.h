@@ -32,6 +32,7 @@
 #import "ZWDateFormatter.h"
 #import "KeyChain.h"
 
+#import "Requester.h"
 #import "ZWHud.h"
 #import "ZWHudConfig.h"
 #import "ZWTools.h"

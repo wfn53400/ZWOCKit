@@ -24,6 +24,10 @@
 		<data>
 		Fj2nRvg7A8Ls71dg1ar2hBw0SKs=
 		</data>
+		<key>Headers/Requester.h</key>
+		<data>
+		huAHA/I/lrgznjpwh/K153EwKPo=
+		</data>
 		<key>Headers/UIButton+extension.h</key>
 		<data>
 		JQcGt1Q0jjubd7He5VzP6PcFPYA=
@@ -70,7 +74,7 @@
 		</data>
 		<key>Headers/ZWKitHeader.h</key>
 		<data>
-		LH/qL97ZB1R0mKt7vEJEjQOvP3o=
+		TuPqGgWeiPVA3tYRPhS+WQqwEq4=
 		</data>
 		<key>Headers/ZWTools.h</key>
 		<data>
@@ -82,7 +86,7 @@
 		</data>
 		<key>LICENSE</key>
 		<data>
-		b3UuYRc1ovjotpTlhhIZ0GDvh2s=
+		vB+8EGyMPmX9iEJqamraEzQM6hY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -148,6 +152,17 @@
 			<key>hash2</key>
 			<data>
 			yleH1VOx9tyd6IdBpaCi+SOcVmDkgoYzO8GmGesh1Q8=
+			</data>
+		</dict>
+		<key>Headers/Requester.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			huAHA/I/lrgznjpwh/K153EwKPo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lchg6N3maWpn+JI8H80pATad0o87iLL0jlLCdgEl2gc=
 			</data>
 		</dict>
 		<key>Headers/UIButton+extension.h</key>
@@ -275,11 +290,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LH/qL97ZB1R0mKt7vEJEjQOvP3o=
+			TuPqGgWeiPVA3tYRPhS+WQqwEq4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yfnO9tn/Nw1ju9mQRWuKOXBLDbGZ+B1XVbB60u9KX7w=
+			5Q3QZYWy0ySye5SdhRJUZM6qrk5OFO2wuxf7n+jJvlI=
 			</data>
 		</dict>
 		<key>Headers/ZWTools.h</key>
@@ -297,11 +312,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b3UuYRc1ovjotpTlhhIZ0GDvh2s=
+			vB+8EGyMPmX9iEJqamraEzQM6hY=
 			</data>
 			<key>hash2</key>
 			<data>
-			18AtLY4k/xZR4Css+FB1TPiUSDJDkOgU2zpZH+j+FfQ=
+			3mcak3UDMwjbTdYqXeAv11+NBEHAabLm0B+zGC1+0jA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

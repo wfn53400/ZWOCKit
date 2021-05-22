@@ -15,6 +15,7 @@
 #import "NSArray+extension.h"
 #import "NSObject+extension.h"
 #import "NSString+Extension.h"
+#import "Requester.h"
 #import "UIButton+extension.h"
 #import "UIColor+Extension.h"
 #import "UILabel+extension.h"
