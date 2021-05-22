@@ -1,0 +1,27 @@
+{
+  "name": "ZWOCKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZWOCKit.",
+  "description": "一个简单的测试库",
+  "homepage": "https://github.com/张伟/ZWOCKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "张伟": "53408947@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/张伟/ZWOCKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZWOCKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

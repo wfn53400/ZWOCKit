@@ -1,0 +1,6 @@
+framework module ZWOCKit {
+  umbrella header "ZWOCKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
