@@ -1,0 +1,6 @@
+framework module ZWKit {
+  umbrella header "ZWKit.h"
+
+  export *
+  module * { export * }
+}

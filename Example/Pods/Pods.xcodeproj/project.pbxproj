@@ -12,67 +12,92 @@
 		062AB518FE8195581B710E5DB02EAD48 /* Pods-ZWOCKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F6A063F15F6B0BE10D90A224E444157A /* Pods-ZWOCKit_Example-dummy.m */; };
 		0967598607D521318F69D7D39D517B20 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 342C4D9B5E1E36390E7AF01E35444998 /* ViewController+MASAdditions.m */; };
 		098630ECDB64ED7B89F5F687C82B4AC3 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AEEBD88282BA13360CAA867D8465C75 /* NSArray+MASAdditions.m */; };
-		09D78B95DB30586C0D548B4D66A8F2A3 /* UIColor+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = CB6F874726321A8F58D28E9D86BC27AB /* UIColor+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0AF1AD35706D90B1A91F291B899EF8C0 /* NSLayoutConstraint+MASDebugAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = E7851906D7976272A721C8C4E0CE9092 /* NSLayoutConstraint+MASDebugAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0FAAEF25B732FCF11F11F6C2EFA4B0F9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFE446476C51FAE0ACFF4FBB24E50A65 /* Foundation.framework */; };
-		166E35E8CE18A7D77D9C40618A8E0114 /* ZWOCKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 44A3759DC721302AA7632919E0ECC6C1 /* ZWOCKit-dummy.m */; };
+		0E0394C0F60AE66887B0D9FCC863849A /* UIColor+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = D0646C311A71082FDC78FDE855213797 /* UIColor+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1149CE5CE3F58F6DC3F4216F24BAE9AD /* ZWOCKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F5D9689E647CCD4938D2FE8CF9792803 /* ZWOCKit-dummy.m */; };
+		1294F14230EFD1325C76E6DCEF0EE341 /* CodeSignature in Sources */ = {isa = PBXBuildFile; fileRef = 7398A47B6CDA9FC9D0711DD1A18503D3 /* CodeSignature */; };
+		1856592246F7E438D76C2106B4CE4B14 /* UIButton+extension.h in Headers */ = {isa = PBXBuildFile; fileRef = F72392082307730BC159EEF439472BC8 /* UIButton+extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1972E85F0FCD0F3EAF28ED7CD036286E /* Masonry-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A85AE9E36F67A1B513CB8DA940771B4F /* Masonry-dummy.m */; };
 		280D36330BAC5715615FF4A8B42D60D6 /* MASUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 607937A372913475EE7EAE532760ACD4 /* MASUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		297A3627CF2F032CBFDC61D1A3786E63 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = A8BCCE8C6C17F326AFEDF4357C62ADAF /* MASViewAttribute.m */; };
+		2A818BAAEE21D0DCBA209AF75FAAA49B /* ZWKit in Sources */ = {isa = PBXBuildFile; fileRef = F705664131B6FD0281AEF753A692C754 /* ZWKit */; };
+		2BF4B8048188E9DEB674EE1ECB5A26EB /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E85CBB1616A4AD15FFA065E896D0A53 /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2CE29C642F44034748C031E2390ECA08 /* CodeDirectory in Sources */ = {isa = PBXBuildFile; fileRef = 2AC4AE3E2959AC991278645BBF5E9F58 /* CodeDirectory */; };
 		346080C0D1CA23399ADD739D722D7CEF /* Masonry.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA8A3885BC33F25CB32442EB2449111 /* Masonry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		36538EA4404F663A36B5D85E5055AC13 /* FSTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 28FF8BB641E0697F160B82561765518D /* FSTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		379813F1EF6DDB55D91B30396187600F /* ZWDateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DDEA46F2AB3138455EC15063E036F89 /* ZWDateFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3DA5F1D8E51CDD102A871C2F37770C7B /* MASViewAttribute.h in Headers */ = {isa = PBXBuildFile; fileRef = A78D3443F105E00FC21FE5A357C8F716 /* MASViewAttribute.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		42091BADB99CCF8AFF29CBE42A128CB1 /* NSArray+extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E17F92EA4BD6D8F03A81A5C38DC1C9A /* NSArray+extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4361E16BD606024A80E4EE2F47F312C7 /* Pods-ZWOCKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 74AD25CABCA7D70AE648847961191EDE /* Pods-ZWOCKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		46C6283D9AA9627B02AE7120D57AB54B /* ZWHudConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 44CE98EB28D960DFF50266B224163042 /* ZWHudConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		475622D1B62BF40C479BE8C079474F73 /* module.modulemap in Sources */ = {isa = PBXBuildFile; fileRef = 210A66FD0EADCEAA445E21D301CB9715 /* module.modulemap */; };
 		4B0981F9AC628CF5100C50FF4A163A4A /* View+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 047EE388CF208BD5F57049BD98558C94 /* View+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		50055C9556AE01D321ADE6FED3004E66 /* ZWKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CA3ECC28D50F9115F47BC8C51D512A4 /* ZWKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		58AF805046CFD9986EFEAACCBA61F9BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFE446476C51FAE0ACFF4FBB24E50A65 /* Foundation.framework */; };
+		5C8C9FE10ED46418CE8C9E3752B5783D /* ZWOCKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DDE30A65F2ACE83C670A1F75E3156EE9 /* ZWOCKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5D5AB502D85BF8E27246A5964F6B3E9F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3CF773651727D50CDFC96D527CE18A6 /* UIKit.framework */; };
+		62EB039EC6F1C2D5429B0D613EB1A81D /* CodeRequirements-1 in Sources */ = {isa = PBXBuildFile; fileRef = 58C842FE5EB5DA757ABB0ED77B09AC66 /* CodeRequirements-1 */; };
 		6A6AD3A5BBDBFD0B4AF936BD518EC0B1 /* Masonry-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CF8069504999FB8BF5FA1529175AA74 /* Masonry-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6B48E1F82F1C140A258411549FC56091 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFE446476C51FAE0ACFF4FBB24E50A65 /* Foundation.framework */; };
-		71929F2176525C4F83A6FC61D1B7EE6F /* ZWOCKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E9DED2F88CAF75D81D2F773D4B24BE9 /* ZWOCKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		75F02B72DD14F24AED8295C411275386 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B28864E3F11E1DDE7AEF55AFFD8B0FE /* Masonry.framework */; };
+		6CB57C8620A9E06D08327F76DE10D258 /* UILabel+extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A4D906A115B3E2C46F1E46709D7666B /* UILabel+extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6DD0623ADACE7DF18F80DD4A8EA36063 /* LICENSE in Sources */ = {isa = PBXBuildFile; fileRef = BA3588F2074A313F5AA9BF63BAF1FBCC /* LICENSE */; };
 		78B2727EE5D693F58D019DB098005101 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 470C5CD1265270E95A8A89443C727427 /* MASConstraintMaker.m */; };
 		7BFF65958F014760B6AC4742824892EB /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = EB7CC7527FD599A1064055C060E14B43 /* MASCompositeConstraint.m */; };
+		7D0332C0D415949FE116A608269F699B /* UIViewController+extension.h in Headers */ = {isa = PBXBuildFile; fileRef = CD0395DEE5D72D9D4F7D2A99D8075092 /* UIViewController+extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8229A8D37FC1C176229E0651632F85BC /* UINavigationController+FDFullscreenPopGesture.h in Headers */ = {isa = PBXBuildFile; fileRef = B150A51CBB4E0C7CAD5333DA859A03FF /* UINavigationController+FDFullscreenPopGesture.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8539B851E01A58467BE49CA3FA77223C /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E17443EA85E103F4DD0553AB6BB942A /* MASLayoutConstraint.m */; };
 		8B92011C9373001132C8148BFC8F50B3 /* ViewController+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 55960467D1B758EC688A18A171012E78 /* ViewController+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8D4D1F6E4709EBB13974E95DC1059DDC /* MASLayoutConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FF4AF21902029EC43C354AC0978CE49 /* MASLayoutConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8D65CE579E516BDD5FB36CAA21D693F6 /* MASCompositeConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AD89987EC7EAE20D7034EEF9935E7CC /* MASCompositeConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		92F244639537D922EB6FB36E9D1FA6D2 /* Pods-ZWOCKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7B7A7759638D17A8A56EB9C15E58F06E /* Pods-ZWOCKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9301CB3A90A39034969DAC9A5753AF98 /* KeyChain.h in Headers */ = {isa = PBXBuildFile; fileRef = 3886E19FFCE15814EA5E8F4A03FF9E09 /* KeyChain.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		935AAD9BD46CDA64C4D707D24EA1AB20 /* ZWKitHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 5478A672C26BA00B346A80A78F8D8DFF /* ZWKitHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		941955A19C40899D275604E6E9C21A6D /* MASConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 02CA69FDFD4D7BB11F8E3E2E7A0B9879 /* MASConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9ADA9E049F7B1BA04389885A4F86A551 /* UITableView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B1AF6397A36DB1B612A77F0AFA41728 /* UITableView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D546E1168C04B0B2EAE005D9275D18B /* MASConstraint+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 837834476F3329FA118B081516D4FC28 /* MASConstraint+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A35FBEEC7D088AEC05297E8292A32C77 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = AF4497913DB548AE2E03103D3A97F34F /* View+MASAdditions.m */; };
+		A680F3A55537BA32178365ADF3486AA5 /* ZWHud.h in Headers */ = {isa = PBXBuildFile; fileRef = 786B03F8D903B3135E4ED8F0340A8B74 /* ZWHud.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A6C37E66B97166BEBD93933749D0C64B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFE446476C51FAE0ACFF4FBB24E50A65 /* Foundation.framework */; };
+		A6D10304143976E5CC8F9C449C9CB300 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B28864E3F11E1DDE7AEF55AFFD8B0FE /* Masonry.framework */; };
 		B7D645EC004610E8A581E532D28771EC /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 72A95F8027E3EB86CB9AE2D7539201FE /* MASViewConstraint.m */; };
+		BDF23C2917192BD30E0BBF943E3445C1 /* NSString+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B7B58EE37F9FE412B108C7007AB08C1 /* NSString+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BE7E5541B9D532D0988290AEFC56733B /* CodeRequirements in Sources */ = {isa = PBXBuildFile; fileRef = 6B3710DE815047BC33171E712D5B086B /* CodeRequirements */; };
 		C0861ADB4C5FA30F4F9E051F7638A264 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 071EEE0A3CE36E163E09EA7F7915F1DE /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		C0CD2CC37EBA35FF74D54C502675A13D /* Pods-ZWOCKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B319A6E8F0E1C760DC550FF0E8C704D4 /* Pods-ZWOCKit_Tests-dummy.m */; };
-		DA0AB49E5D9C1A39EB24CCBB95375704 /* UIColor+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 24EE360F7DCE2746350AE6BCAA5DA12D /* UIColor+Extension.m */; };
+		C2EC094ECEEEAE9962AA58777BFF5199 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 0A4938314547F66CC7DDA7ABAC6D4343 /* README.md */; };
+		C803695CAD9B01743A3DAE73A5BE39C0 /* CodeResources in Sources */ = {isa = PBXBuildFile; fileRef = 1004D845E199AFBDEDD74C20B1061A63 /* CodeResources */; };
+		D1F5D8718B5E0DCAAB4C815D803DC645 /* NSObject+extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 5CE27DF73BE17215F1A4F7E72A464D5E /* NSObject+extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E7CA20228B3583F41927813EE904CAD3 /* View+MASShorthandAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 86765B456E483806C4E13D2DD50E40A4 /* View+MASShorthandAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E8DD5D1D406150E1C80AD015271B6848 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 9073C3B74BC30C55B4EB5B2A596EAD72 /* MASConstraint.m */; };
 		EAE8B0895956885A752B173683A0D889 /* MASViewConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = D12E9F350C1C8076BE92719B89951AD8 /* MASViewConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F0A8AEFDB404A07C97CE296A0B306699 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFE446476C51FAE0ACFF4FBB24E50A65 /* Foundation.framework */; };
 		FAFBFA90F7BC3E7CF50F8A5CF0A8B264 /* MASConstraintMaker.h in Headers */ = {isa = PBXBuildFile; fileRef = B28EC2F4C626ED77509645BE3805CB29 /* MASConstraintMaker.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FEA94DE9D439F7EAF56C44E26F35F97A /* ZWTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 938F3FDFBC5C7C941DF2E592AB91E102 /* ZWTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1EBB4E53C37C3EB0CA4C911E282C0F5C /* PBXContainerItemProxy */ = {
+		24171C5EA57C3DBDC5DF265495A9A9FA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 168F6B29EC6F7B337DE50B09663ABE00;
 			remoteInfo = "Pods-ZWOCKit_Example";
 		};
-		20F4504128B27BA8922CDA718E19C503 /* PBXContainerItemProxy */ = {
+		4BA0AFBDDBEC466CD6459300DE5FA712 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
 			remoteInfo = Masonry;
 		};
-		DC23BA5AFC72A8D8CF08805B03BD466A /* PBXContainerItemProxy */ = {
+		C5FF3EAC1E4B1D25E7ADE42C667179E5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
 			remoteInfo = Masonry;
 		};
-		DEBC81CCBF927788C4D03296DFF67313 /* PBXContainerItemProxy */ = {
+		E12574A78B65B58BF5788DFA915852BA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -85,63 +110,85 @@
 		02CA69FDFD4D7BB11F8E3E2E7A0B9879 /* MASConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraint.h; path = Masonry/MASConstraint.h; sourceTree = "<group>"; };
 		047EE388CF208BD5F57049BD98558C94 /* View+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASAdditions.h"; path = "Masonry/View+MASAdditions.h"; sourceTree = "<group>"; };
 		071EEE0A3CE36E163E09EA7F7915F1DE /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
-		1EA733BE5A2E8A2A527FFDB04688DC3D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		0A4938314547F66CC7DDA7ABAC6D4343 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ZWOCKit/Classes/ZWKit.framework/README.md; sourceTree = "<group>"; };
+		0C426D4C140AAC8F0EB06DE460F5DC86 /* ZWOCKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZWOCKit.debug.xcconfig; sourceTree = "<group>"; };
+		1004D845E199AFBDEDD74C20B1061A63 /* CodeResources */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeResources; sourceTree = "<group>"; };
+		1DDEA46F2AB3138455EC15063E036F89 /* ZWDateFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZWDateFormatter.h; sourceTree = "<group>"; };
 		1FFED36A657123030ABB700256D73F15 /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Masonry.framework; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		227D974A4004B7E48AA2C488AFA0FD94 /* ZWOCKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZWOCKit.release.xcconfig; sourceTree = "<group>"; };
-		24EE360F7DCE2746350AE6BCAA5DA12D /* UIColor+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Extension.m"; path = "ZWOCKit/Classes/UIColor+Extension.m"; sourceTree = "<group>"; };
+		210A66FD0EADCEAA445E21D301CB9715 /* module.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = module.modulemap; sourceTree = "<group>"; };
+		21921A7CD920C465F3A64CFE9E04C42D /* ZWOCKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZWOCKit-prefix.pch"; sourceTree = "<group>"; };
+		25A5B3D5CD78DA9051B537557E0BC3D5 /* ZWOCKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZWOCKit-Info.plist"; sourceTree = "<group>"; };
 		27E12E3D2779B5C7A8301A94F715DB4C /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASShorthandAdditions.h"; path = "Masonry/NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
-		285F6FC18469EC29A4B9241586CC0830 /* ZWOCKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZWOCKit-prefix.pch"; sourceTree = "<group>"; };
+		28FF8BB641E0697F160B82561765518D /* FSTextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FSTextView.h; sourceTree = "<group>"; };
+		2AC4AE3E2959AC991278645BBF5E9F58 /* CodeDirectory */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeDirectory; sourceTree = "<group>"; };
+		2B7B58EE37F9FE412B108C7007AB08C1 /* NSString+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+Extension.h"; sourceTree = "<group>"; };
 		30EC6C5D191587619B42076546EDC448 /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASAdditions.h"; path = "Masonry/NSArray+MASAdditions.h"; sourceTree = "<group>"; };
 		342C4D9B5E1E36390E7AF01E35444998 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
+		3886E19FFCE15814EA5E8F4A03FF9E09 /* KeyChain.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KeyChain.h; sourceTree = "<group>"; };
+		3A4D906A115B3E2C46F1E46709D7666B /* UILabel+extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+extension.h"; sourceTree = "<group>"; };
+		3B1AF6397A36DB1B612A77F0AFA41728 /* UITableView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITableView+Extension.h"; sourceTree = "<group>"; };
 		3E537C1F47DA8B06DA4A71E3D14F4DE4 /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Masonry.modulemap; sourceTree = "<group>"; };
 		419A961AD957E23BAB6A998ED7623134 /* Masonry.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.release.xcconfig; sourceTree = "<group>"; };
-		44A3759DC721302AA7632919E0ECC6C1 /* ZWOCKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZWOCKit-dummy.m"; sourceTree = "<group>"; };
+		44CE98EB28D960DFF50266B224163042 /* ZWHudConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZWHudConfig.h; sourceTree = "<group>"; };
 		470C5CD1265270E95A8A89443C727427 /* MASConstraintMaker.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraintMaker.m; path = Masonry/MASConstraintMaker.m; sourceTree = "<group>"; };
 		4AD89987EC7EAE20D7034EEF9935E7CC /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
-		4F830910ED079E6CDFEC908BB82E0415 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		53D56EC20C839BF5BA24CD493BD54480 /* ZWOCKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ZWOCKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5478A672C26BA00B346A80A78F8D8DFF /* ZWKitHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZWKitHeader.h; sourceTree = "<group>"; };
 		55960467D1B758EC688A18A171012E78 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
+		58C842FE5EB5DA757ABB0ED77B09AC66 /* CodeRequirements-1 */ = {isa = PBXFileReference; includeInIndex = 1; path = "CodeRequirements-1"; sourceTree = "<group>"; };
+		5CE27DF73BE17215F1A4F7E72A464D5E /* NSObject+extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject+extension.h"; sourceTree = "<group>"; };
+		5E17F92EA4BD6D8F03A81A5C38DC1C9A /* NSArray+extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSArray+extension.h"; sourceTree = "<group>"; };
+		5E85CBB1616A4AD15FFA065E896D0A53 /* UIView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		607937A372913475EE7EAE532760ACD4 /* MASUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASUtilities.h; path = Masonry/MASUtilities.h; sourceTree = "<group>"; };
 		640344753B9A3E26733BAC6E9F87C0F4 /* Pods-ZWOCKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZWOCKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6B28864E3F11E1DDE7AEF55AFFD8B0FE /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B3710DE815047BC33171E712D5B086B /* CodeRequirements */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeRequirements; sourceTree = "<group>"; };
 		6CF8069504999FB8BF5FA1529175AA74 /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
 		6E17443EA85E103F4DD0553AB6BB942A /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		6FF4AF21902029EC43C354AC0978CE49 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
 		72A95F8027E3EB86CB9AE2D7539201FE /* MASViewConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewConstraint.m; path = Masonry/MASViewConstraint.m; sourceTree = "<group>"; };
+		7398A47B6CDA9FC9D0711DD1A18503D3 /* CodeSignature */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeSignature; sourceTree = "<group>"; };
 		74AD25CABCA7D70AE648847961191EDE /* Pods-ZWOCKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZWOCKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		74F8A9013DDF7ED75E1682D2B19956FC /* Pods-ZWOCKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZWOCKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		7826632D018E14BDB05886D371A6F936 /* ZWOCKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZWOCKit.modulemap; sourceTree = "<group>"; };
-		7AEA998187B41C1755AB45088D632E1A /* ZWOCKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZWOCKit.debug.xcconfig; sourceTree = "<group>"; };
+		786B03F8D903B3135E4ED8F0340A8B74 /* ZWHud.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZWHud.h; sourceTree = "<group>"; };
 		7B7A7759638D17A8A56EB9C15E58F06E /* Pods-ZWOCKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZWOCKit_Tests-umbrella.h"; sourceTree = "<group>"; };
+		7FC047DC6B94EAA97A6B7981F6BC938C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		837834476F3329FA118B081516D4FC28 /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
+		83E4473257330C4769B7686666CDAE08 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		86765B456E483806C4E13D2DD50E40A4 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		8AEEBD88282BA13360CAA867D8465C75 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
 		9073C3B74BC30C55B4EB5B2A596EAD72 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
+		938F3FDFBC5C7C941DF2E592AB91E102 /* ZWTools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZWTools.h; sourceTree = "<group>"; };
+		95E0573DC88108E65BC5D2408B0D6B68 /* ZWOCKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ZWOCKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9C3E955C16CC17AD011D0F48C7C922D4 /* Pods-ZWOCKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZWOCKit_Example-frameworks.sh"; sourceTree = "<group>"; };
+		9CA3ECC28D50F9115F47BC8C51D512A4 /* ZWKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZWKit.h; sourceTree = "<group>"; };
 		9D46329BB22F16C0DF07B9C1F5E6E1CE /* Pods-ZWOCKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZWOCKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E9DED2F88CAF75D81D2F773D4B24BE9 /* ZWOCKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZWOCKit-umbrella.h"; sourceTree = "<group>"; };
 		A22F0FE0B2594272C301A2209681A2E3 /* Pods-ZWOCKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZWOCKit_Tests.modulemap"; sourceTree = "<group>"; };
 		A60DA32DA12F3C77C4C54A10F789B95B /* Pods-ZWOCKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZWOCKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A78D3443F105E00FC21FE5A357C8F716 /* MASViewAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewAttribute.h; path = Masonry/MASViewAttribute.h; sourceTree = "<group>"; };
 		A85AE9E36F67A1B513CB8DA940771B4F /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		A8BCCE8C6C17F326AFEDF4357C62ADAF /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
 		AF4497913DB548AE2E03103D3A97F34F /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
+		B150A51CBB4E0C7CAD5333DA859A03FF /* UINavigationController+FDFullscreenPopGesture.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+FDFullscreenPopGesture.h"; sourceTree = "<group>"; };
 		B28EC2F4C626ED77509645BE3805CB29 /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
 		B319A6E8F0E1C760DC550FF0E8C704D4 /* Pods-ZWOCKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZWOCKit_Tests-dummy.m"; sourceTree = "<group>"; };
+		BA1F4F4BB6C4183304E17F3C4BCA04B3 /* ZWOCKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZWOCKit.release.xcconfig; sourceTree = "<group>"; };
+		BA3588F2074A313F5AA9BF63BAF1FBCC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ZWOCKit/Classes/ZWKit.framework/LICENSE; sourceTree = "<group>"; };
 		BAA1BE6C4DFA133AF48DBBFECDF019D8 /* Pods-ZWOCKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZWOCKit_Example.modulemap"; sourceTree = "<group>"; };
 		BDB676D9D5D3AFD89D8DDCE3369D4BAC /* Masonry-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-prefix.pch"; sourceTree = "<group>"; };
 		BF5BB9301BB7F5A535BE31A03670E444 /* Pods-ZWOCKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZWOCKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C18F465AFA1287A40558C08BDEA51207 /* Pods-ZWOCKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZWOCKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C3E9CA347D438DE80C95FF3D5E0AFC94 /* Pods-ZWOCKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZWOCKit_Tests-Info.plist"; sourceTree = "<group>"; };
-		CB6F874726321A8F58D28E9D86BC27AB /* UIColor+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Extension.h"; path = "ZWOCKit/Classes/UIColor+Extension.h"; sourceTree = "<group>"; };
+		CD0395DEE5D72D9D4F7D2A99D8075092 /* UIViewController+extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+extension.h"; sourceTree = "<group>"; };
 		CFE446476C51FAE0ACFF4FBB24E50A65 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D0646C311A71082FDC78FDE855213797 /* UIColor+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extension.h"; sourceTree = "<group>"; };
 		D12E9F350C1C8076BE92719B89951AD8 /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
 		D1496A0863D172303FE90539E4FED6FF /* Pods-ZWOCKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZWOCKit_Example-Info.plist"; sourceTree = "<group>"; };
 		D1D311B792460D183AB577B309882529 /* Pods_ZWOCKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZWOCKit_Tests.framework; path = "Pods-ZWOCKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDE30A65F2ACE83C670A1F75E3156EE9 /* ZWOCKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZWOCKit-umbrella.h"; sourceTree = "<group>"; };
 		DFA1012B6A8BD076CD9F09831AE37A01 /* Masonry-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Masonry-Info.plist"; sourceTree = "<group>"; };
+		DFFECA92F001A7900D8036BE2E7F855C /* ZWOCKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZWOCKit.modulemap; sourceTree = "<group>"; };
 		E113B4942168A3DDB4DF406E306D6BE3 /* Pods_ZWOCKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZWOCKit_Example.framework; path = "Pods-ZWOCKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E38B7194D2E0B470E436137ADA10A0EA /* ZWOCKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZWOCKit-Info.plist"; sourceTree = "<group>"; };
 		E42B9C6219AFDF0F544A31AC9F337346 /* Pods-ZWOCKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZWOCKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E479D017A7509577EF078951A3DA2FE7 /* Pods-ZWOCKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZWOCKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		E7851906D7976272A721C8C4E0CE9092 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
@@ -149,20 +196,14 @@
 		EDA8A3885BC33F25CB32442EB2449111 /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
 		F287598D192FA586BD4AECCD85B988A4 /* Masonry.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.debug.xcconfig; sourceTree = "<group>"; };
 		F3CF773651727D50CDFC96D527CE18A6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		F5D9689E647CCD4938D2FE8CF9792803 /* ZWOCKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZWOCKit-dummy.m"; sourceTree = "<group>"; };
 		F6A063F15F6B0BE10D90A224E444157A /* Pods-ZWOCKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZWOCKit_Example-dummy.m"; sourceTree = "<group>"; };
+		F705664131B6FD0281AEF753A692C754 /* ZWKit */ = {isa = PBXFileReference; includeInIndex = 1; name = ZWKit; path = ZWOCKit/Classes/ZWKit.framework/ZWKit; sourceTree = "<group>"; };
+		F72392082307730BC159EEF439472BC8 /* UIButton+extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+extension.h"; sourceTree = "<group>"; };
 		F7DB148901C3995029A40D1D6B851DCD /* ZWOCKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ZWOCKit.framework; path = ZWOCKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0E07337AED47A2AD7F0EC303DF479725 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0FAAEF25B732FCF11F11F6C2EFA4B0F9 /* Foundation.framework in Frameworks */,
-				75F02B72DD14F24AED8295C411275386 /* Masonry.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		14C8F0D0C426AC6B0B6146C2F0EB0E68 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -185,6 +226,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0A8AEFDB404A07C97CE296A0B306699 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F037ABA1A35E8F601F08C4EE40DA4370 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6C37E66B97166BEBD93933749D0C64B /* Foundation.framework in Frameworks */,
+				A6D10304143976E5CC8F9C449C9CB300 /* Masonry.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,36 +286,6 @@
 			path = Masonry;
 			sourceTree = "<group>";
 		};
-		1682D3128FA5B85A24D8027CCDEB31DF /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3FE92ECFD083ABE3FE5AF0A0A989394F /* ZWOCKit */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		2218EF4884979B397BC5FA159A31F259 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				1EA733BE5A2E8A2A527FFDB04688DC3D /* LICENSE */,
-				4F830910ED079E6CDFEC908BB82E0415 /* README.md */,
-				53D56EC20C839BF5BA24CD493BD54480 /* ZWOCKit.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		3FE92ECFD083ABE3FE5AF0A0A989394F /* ZWOCKit */ = {
-			isa = PBXGroup;
-			children = (
-				CB6F874726321A8F58D28E9D86BC27AB /* UIColor+Extension.h */,
-				24EE360F7DCE2746350AE6BCAA5DA12D /* UIColor+Extension.m */,
-				2218EF4884979B397BC5FA159A31F259 /* Pod */,
-				A361E75736495794DECAC2F1BFA337AE /* Support Files */,
-			);
-			name = ZWOCKit;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		4341CF27A416158F0DB0A2DA0B0ED0AF /* Pods-ZWOCKit_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -281,6 +301,40 @@
 			);
 			name = "Pods-ZWOCKit_Example";
 			path = "Target Support Files/Pods-ZWOCKit_Example";
+			sourceTree = "<group>";
+		};
+		43FCC82D1ABFA913756CF09D23F58AD7 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				740D4EC8D57B4BB59335990168B854B6 /* ZWOCKit */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		602A5780AA37CDB54F7040F9833ADE17 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				83E4473257330C4769B7686666CDAE08 /* LICENSE */,
+				7FC047DC6B94EAA97A6B7981F6BC938C /* README.md */,
+				95E0573DC88108E65BC5D2408B0D6B68 /* ZWOCKit.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		740D4EC8D57B4BB59335990168B854B6 /* ZWOCKit */ = {
+			isa = PBXGroup;
+			children = (
+				BA3588F2074A313F5AA9BF63BAF1FBCC /* LICENSE */,
+				0A4938314547F66CC7DDA7ABAC6D4343 /* README.md */,
+				F705664131B6FD0281AEF753A692C754 /* ZWKit */,
+				E73A4FFD3E262A90CFB44EBA397A992E /* _CodeSignature */,
+				D52D4F8F7FA9FDC7D1536F52DAFB063F /* Headers */,
+				923F02B51970DDE1B578076F4347FD1F /* Modules */,
+				602A5780AA37CDB54F7040F9833ADE17 /* Pod */,
+				9EF9011C37B17DB66604BF9455983109 /* Support Files */,
+			);
+			name = ZWOCKit;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		7529FD53BCE26816CCD46658378AAF1B /* Pods */ = {
@@ -300,6 +354,15 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		923F02B51970DDE1B578076F4347FD1F /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				210A66FD0EADCEAA445E21D301CB9715 /* module.modulemap */,
+			);
+			name = Modules;
+			path = ZWOCKit/Classes/ZWKit.framework/Modules;
+			sourceTree = "<group>";
+		};
 		963A09D42F47250191FF6EA2FEB59DFC /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -309,16 +372,16 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		A361E75736495794DECAC2F1BFA337AE /* Support Files */ = {
+		9EF9011C37B17DB66604BF9455983109 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				7826632D018E14BDB05886D371A6F936 /* ZWOCKit.modulemap */,
-				44A3759DC721302AA7632919E0ECC6C1 /* ZWOCKit-dummy.m */,
-				E38B7194D2E0B470E436137ADA10A0EA /* ZWOCKit-Info.plist */,
-				285F6FC18469EC29A4B9241586CC0830 /* ZWOCKit-prefix.pch */,
-				9E9DED2F88CAF75D81D2F773D4B24BE9 /* ZWOCKit-umbrella.h */,
-				7AEA998187B41C1755AB45088D632E1A /* ZWOCKit.debug.xcconfig */,
-				227D974A4004B7E48AA2C488AFA0FD94 /* ZWOCKit.release.xcconfig */,
+				DFFECA92F001A7900D8036BE2E7F855C /* ZWOCKit.modulemap */,
+				F5D9689E647CCD4938D2FE8CF9792803 /* ZWOCKit-dummy.m */,
+				25A5B3D5CD78DA9051B537557E0BC3D5 /* ZWOCKit-Info.plist */,
+				21921A7CD920C465F3A64CFE9E04C42D /* ZWOCKit-prefix.pch */,
+				DDE30A65F2ACE83C670A1F75E3156EE9 /* ZWOCKit-umbrella.h */,
+				0C426D4C140AAC8F0EB06DE460F5DC86 /* ZWOCKit.debug.xcconfig */,
+				BA1F4F4BB6C4183304E17F3C4BCA04B3 /* ZWOCKit.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/ZWOCKit";
@@ -343,7 +406,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				1682D3128FA5B85A24D8027CCDEB31DF /* Development Pods */,
+				43FCC82D1ABFA913756CF09D23F58AD7 /* Development Pods */,
 				DF275781DF9628A2D5BF35F5D74F7BC1 /* Frameworks */,
 				7529FD53BCE26816CCD46658378AAF1B /* Pods */,
 				095C3EB2DD49AEA10157A520161C26BC /* Products */,
@@ -367,6 +430,32 @@
 			path = "Target Support Files/Pods-ZWOCKit_Tests";
 			sourceTree = "<group>";
 		};
+		D52D4F8F7FA9FDC7D1536F52DAFB063F /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				28FF8BB641E0697F160B82561765518D /* FSTextView.h */,
+				3886E19FFCE15814EA5E8F4A03FF9E09 /* KeyChain.h */,
+				5E17F92EA4BD6D8F03A81A5C38DC1C9A /* NSArray+extension.h */,
+				5CE27DF73BE17215F1A4F7E72A464D5E /* NSObject+extension.h */,
+				2B7B58EE37F9FE412B108C7007AB08C1 /* NSString+Extension.h */,
+				F72392082307730BC159EEF439472BC8 /* UIButton+extension.h */,
+				D0646C311A71082FDC78FDE855213797 /* UIColor+Extension.h */,
+				3A4D906A115B3E2C46F1E46709D7666B /* UILabel+extension.h */,
+				B150A51CBB4E0C7CAD5333DA859A03FF /* UINavigationController+FDFullscreenPopGesture.h */,
+				3B1AF6397A36DB1B612A77F0AFA41728 /* UITableView+Extension.h */,
+				5E85CBB1616A4AD15FFA065E896D0A53 /* UIView+Extension.h */,
+				CD0395DEE5D72D9D4F7D2A99D8075092 /* UIViewController+extension.h */,
+				1DDEA46F2AB3138455EC15063E036F89 /* ZWDateFormatter.h */,
+				786B03F8D903B3135E4ED8F0340A8B74 /* ZWHud.h */,
+				44CE98EB28D960DFF50266B224163042 /* ZWHudConfig.h */,
+				9CA3ECC28D50F9115F47BC8C51D512A4 /* ZWKit.h */,
+				5478A672C26BA00B346A80A78F8D8DFF /* ZWKitHeader.h */,
+				938F3FDFBC5C7C941DF2E592AB91E102 /* ZWTools.h */,
+			);
+			name = Headers;
+			path = ZWOCKit/Classes/ZWKit.framework/Headers;
+			sourceTree = "<group>";
+		};
 		DF275781DF9628A2D5BF35F5D74F7BC1 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -374,6 +463,19 @@
 				8B9B1AC85CD951F73580B2776B7EA31B /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E73A4FFD3E262A90CFB44EBA397A992E /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				2AC4AE3E2959AC991278645BBF5E9F58 /* CodeDirectory */,
+				6B3710DE815047BC33171E712D5B086B /* CodeRequirements */,
+				58C842FE5EB5DA757ABB0ED77B09AC66 /* CodeRequirements-1 */,
+				1004D845E199AFBDEDD74C20B1061A63 /* CodeResources */,
+				7398A47B6CDA9FC9D0711DD1A18503D3 /* CodeSignature */,
+			);
+			name = _CodeSignature;
+			path = ZWOCKit/Classes/ZWKit.framework/_CodeSignature;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -410,20 +512,37 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BEA04AAFA7C6417907A34842008DD985 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				09D78B95DB30586C0D548B4D66A8F2A3 /* UIColor+Extension.h in Headers */,
-				71929F2176525C4F83A6FC61D1B7EE6F /* ZWOCKit-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		C0928D98D0D450E5530F5159B8EF0918 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				92F244639537D922EB6FB36E9D1FA6D2 /* Pods-ZWOCKit_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C2D72F8516900A2A99956A45C92FFF7E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				36538EA4404F663A36B5D85E5055AC13 /* FSTextView.h in Headers */,
+				9301CB3A90A39034969DAC9A5753AF98 /* KeyChain.h in Headers */,
+				42091BADB99CCF8AFF29CBE42A128CB1 /* NSArray+extension.h in Headers */,
+				D1F5D8718B5E0DCAAB4C815D803DC645 /* NSObject+extension.h in Headers */,
+				BDF23C2917192BD30E0BBF943E3445C1 /* NSString+Extension.h in Headers */,
+				1856592246F7E438D76C2106B4CE4B14 /* UIButton+extension.h in Headers */,
+				0E0394C0F60AE66887B0D9FCC863849A /* UIColor+Extension.h in Headers */,
+				6CB57C8620A9E06D08327F76DE10D258 /* UILabel+extension.h in Headers */,
+				8229A8D37FC1C176229E0651632F85BC /* UINavigationController+FDFullscreenPopGesture.h in Headers */,
+				9ADA9E049F7B1BA04389885A4F86A551 /* UITableView+Extension.h in Headers */,
+				2BF4B8048188E9DEB674EE1ECB5A26EB /* UIView+Extension.h in Headers */,
+				7D0332C0D415949FE116A608269F699B /* UIViewController+extension.h in Headers */,
+				379813F1EF6DDB55D91B30396187600F /* ZWDateFormatter.h in Headers */,
+				A680F3A55537BA32178365ADF3486AA5 /* ZWHud.h in Headers */,
+				46C6283D9AA9627B02AE7120D57AB54B /* ZWHudConfig.h in Headers */,
+				50055C9556AE01D321ADE6FED3004E66 /* ZWKit.h in Headers */,
+				935AAD9BD46CDA64C4D707D24EA1AB20 /* ZWKitHeader.h in Headers */,
+				5C8C9FE10ED46418CE8C9E3752B5783D /* ZWOCKit-umbrella.h in Headers */,
+				FEA94DE9D439F7EAF56C44E26F35F97A /* ZWTools.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,8 +561,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				E6EBC734C3262C3E8EFB9CB7E8885604 /* PBXTargetDependency */,
-				7698977A415C3587EB1590932217FA85 /* PBXTargetDependency */,
+				457AE5965C1759A688C40074D1D8B598 /* PBXTargetDependency */,
+				D541C9458686D67C1A709C57CF7440A1 /* PBXTargetDependency */,
 			);
 			name = "Pods-ZWOCKit_Example";
 			productName = "Pods-ZWOCKit_Example";
@@ -480,7 +599,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				B5DDFB8B6969EB036661D4AEFA3CA81C /* PBXTargetDependency */,
+				90A59E255AEBD97730E7423229DD12AB /* PBXTargetDependency */,
 			);
 			name = "Pods-ZWOCKit_Tests";
 			productName = "Pods-ZWOCKit_Tests";
@@ -489,17 +608,17 @@
 		};
 		EC8CBE90148ED651F651A20DE5AC4F2B /* ZWOCKit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12D48400C578C201843BD679F81569FA /* Build configuration list for PBXNativeTarget "ZWOCKit" */;
+			buildConfigurationList = 78F46328C2BD84958A62382BCCCD4E28 /* Build configuration list for PBXNativeTarget "ZWOCKit" */;
 			buildPhases = (
-				BEA04AAFA7C6417907A34842008DD985 /* Headers */,
-				B26E202B4C8EAC4F7BB0BC8DAB423FF5 /* Sources */,
-				0E07337AED47A2AD7F0EC303DF479725 /* Frameworks */,
-				21F24A609BDE1C84B40C4719C1F85007 /* Resources */,
+				C2D72F8516900A2A99956A45C92FFF7E /* Headers */,
+				DE0D9D526A69549D9A8CDD6BA9DE0455 /* Sources */,
+				F037ABA1A35E8F601F08C4EE40DA4370 /* Frameworks */,
+				4963C1EA536F6A7585320955730D8FA7 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				79E033DD6462FCA9A9E963A354235A15 /* PBXTargetDependency */,
+				A381C758C4AA1CEC3CAC6B56737CFE9E /* PBXTargetDependency */,
 			);
 			name = ZWOCKit;
 			productName = ZWOCKit;
@@ -537,7 +656,7 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		21F24A609BDE1C84B40C4719C1F85007 /* Resources */ = {
+		4963C1EA536F6A7585320955730D8FA7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -594,15 +713,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B26E202B4C8EAC4F7BB0BC8DAB423FF5 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DA0AB49E5D9C1A39EB24CCBB95375704 /* UIColor+Extension.m in Sources */,
-				166E35E8CE18A7D77D9C40618A8E0114 /* ZWOCKit-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B7CAA07171F9B8E08DEDC455C9F81AC3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -611,67 +721,53 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		DE0D9D526A69549D9A8CDD6BA9DE0455 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CE29C642F44034748C031E2390ECA08 /* CodeDirectory in Sources */,
+				BE7E5541B9D532D0988290AEFC56733B /* CodeRequirements in Sources */,
+				62EB039EC6F1C2D5429B0D613EB1A81D /* CodeRequirements-1 in Sources */,
+				C803695CAD9B01743A3DAE73A5BE39C0 /* CodeResources in Sources */,
+				1294F14230EFD1325C76E6DCEF0EE341 /* CodeSignature in Sources */,
+				6DD0623ADACE7DF18F80DD4A8EA36063 /* LICENSE in Sources */,
+				475622D1B62BF40C479BE8C079474F73 /* module.modulemap in Sources */,
+				C2EC094ECEEEAE9962AA58777BFF5199 /* README.md in Sources */,
+				2A818BAAEE21D0DCBA209AF75FAAA49B /* ZWKit in Sources */,
+				1149CE5CE3F58F6DC3F4216F24BAE9AD /* ZWOCKit-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7698977A415C3587EB1590932217FA85 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = ZWOCKit;
-			target = EC8CBE90148ED651F651A20DE5AC4F2B /* ZWOCKit */;
-			targetProxy = DEBC81CCBF927788C4D03296DFF67313 /* PBXContainerItemProxy */;
-		};
-		79E033DD6462FCA9A9E963A354235A15 /* PBXTargetDependency */ = {
+		457AE5965C1759A688C40074D1D8B598 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Masonry;
 			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
-			targetProxy = 20F4504128B27BA8922CDA718E19C503 /* PBXContainerItemProxy */;
+			targetProxy = 4BA0AFBDDBEC466CD6459300DE5FA712 /* PBXContainerItemProxy */;
 		};
-		B5DDFB8B6969EB036661D4AEFA3CA81C /* PBXTargetDependency */ = {
+		90A59E255AEBD97730E7423229DD12AB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-ZWOCKit_Example";
 			target = 168F6B29EC6F7B337DE50B09663ABE00 /* Pods-ZWOCKit_Example */;
-			targetProxy = 1EBB4E53C37C3EB0CA4C911E282C0F5C /* PBXContainerItemProxy */;
+			targetProxy = 24171C5EA57C3DBDC5DF265495A9A9FA /* PBXContainerItemProxy */;
 		};
-		E6EBC734C3262C3E8EFB9CB7E8885604 /* PBXTargetDependency */ = {
+		A381C758C4AA1CEC3CAC6B56737CFE9E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Masonry;
 			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
-			targetProxy = DC23BA5AFC72A8D8CF08805B03BD466A /* PBXContainerItemProxy */;
+			targetProxy = C5FF3EAC1E4B1D25E7ADE42C667179E5 /* PBXContainerItemProxy */;
+		};
+		D541C9458686D67C1A709C57CF7440A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ZWOCKit;
+			target = EC8CBE90148ED651F651A20DE5AC4F2B /* ZWOCKit */;
+			targetProxy = E12574A78B65B58BF5788DFA915852BA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		203874094622CDD8D53FA621D9E708BE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7AEA998187B41C1755AB45088D632E1A /* ZWOCKit.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ZWOCKit/ZWOCKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ZWOCKit/ZWOCKit-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ZWOCKit/ZWOCKit.modulemap";
-				PRODUCT_MODULE_NAME = ZWOCKit;
-				PRODUCT_NAME = ZWOCKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		230CEDB29E6245337FA949F7DDD6967A /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A60DA32DA12F3C77C4C54A10F789B95B /* Pods-ZWOCKit_Tests.release.xcconfig */;
@@ -772,9 +868,9 @@
 			};
 			name = Debug;
 		};
-		7EDD0A7A8A56FBE42D946B9BB3248E45 /* Release */ = {
+		70E6A7C1756C19A0E191338A1481A89B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 227D974A4004B7E48AA2C488AFA0FD94 /* ZWOCKit.release.xcconfig */;
+			baseConfigurationReference = 0C426D4C140AAC8F0EB06DE460F5DC86 /* ZWOCKit.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -798,11 +894,10 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -997,6 +1092,38 @@
 			};
 			name = Debug;
 		};
+		D8185A86555E6E50B4FE63DF9F7F9D1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BA1F4F4BB6C4183304E17F3C4BCA04B3 /* ZWOCKit.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ZWOCKit/ZWOCKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ZWOCKit/ZWOCKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ZWOCKit/ZWOCKit.modulemap";
+				PRODUCT_MODULE_NAME = ZWOCKit;
+				PRODUCT_NAME = ZWOCKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		E9B0CF34850B8E75A55EE69CDD77B49C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F287598D192FA586BD4AECCD85B988A4 /* Masonry.debug.xcconfig */;
@@ -1048,20 +1175,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		12D48400C578C201843BD679F81569FA /* Build configuration list for PBXNativeTarget "ZWOCKit" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				203874094622CDD8D53FA621D9E708BE /* Debug */,
-				7EDD0A7A8A56FBE42D946B9BB3248E45 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
 				7EE7A78859F657F6BEFC651185B43192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		78F46328C2BD84958A62382BCCCD4E28 /* Build configuration list for PBXNativeTarget "ZWOCKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70E6A7C1756C19A0E191338A1481A89B /* Debug */,
+				D8185A86555E6E50B4FE63DF9F7F9D1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

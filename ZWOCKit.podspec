@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZWOCKit'
-  s.version          = '0.0.1'
-  s.summary          = 'A short description of ZWOCKit.'
+  s.version          = '1.0.0'
+  s.summary          = 'ZWOCKit oc kit'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                      一个简单的测试库
+                      自己常用的工具类封装，方便自己使用
                        DESC
 
-  s.homepage         = 'https://github.com/张伟/ZWOCKit'
+  s.homepage         = 'https://github.com/wfn53400/ZWOCKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '张伟' => '53408947@qq.com' }
-  s.source           = { :git => 'https://github.com/张伟/ZWOCKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wfn53400/ZWOCKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
