@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "BaseNavigationController.h"
+#import "BaseTabbarController.h"
+#import "BaseTableView.h"
+#import "BaseTableViewCell.h"
 #import "FSTextView.h"
 #import "KeyChain.h"
 #import "NSArray+extension.h"

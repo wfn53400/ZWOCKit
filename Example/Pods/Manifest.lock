@@ -1,6 +1,22 @@
 PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
   - Masonry (1.1.0)
-  - ZWOCKit (1.0.0):
+  - ZWOCKit (1.0.2):
+    - AFNetworking
     - Masonry
 
 DEPENDENCIES:
@@ -8,6 +24,7 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
+    - AFNetworking
     - Masonry
 
 EXTERNAL SOURCES:
@@ -15,8 +32,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  ZWOCKit: cdcf0f38a3401f623fa8ae88156e38a1d05ac1ca
+  ZWOCKit: 1f3e65716196ab24255740648715dc6bacc1848f
 
 PODFILE CHECKSUM: 063d7a5fe777ae72f907775500fa1fc74328b6e4
 
