@@ -51,8 +51,6 @@
 #import "NSObject+extension.h"
 
 //base
-#import "BaseNavigationController.h"
-#import "BaseTabbarController.h"
 #import "BaseTableView.h"
 #import "BaseTableViewCell.h"
 

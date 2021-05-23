@@ -15,7 +15,7 @@ PODS:
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
   - Masonry (1.1.0)
-  - ZWOCKit (1.0.2):
+  - ZWOCKit (1.0.5):
     - AFNetworking
     - Masonry
 
@@ -34,7 +34,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  ZWOCKit: 1f3e65716196ab24255740648715dc6bacc1848f
+  ZWOCKit: 16ec0233044c3f56c64326a4dc467657e42ee27e
 
 PODFILE CHECKSUM: 063d7a5fe777ae72f907775500fa1fc74328b6e4
 

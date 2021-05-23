@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/BaseNavigationController.h</key>
-		<data>
-		Jd3qw9gR8T6eEwVJ/vVvxCWdNF0=
-		</data>
-		<key>Headers/BaseTabbarController.h</key>
-		<data>
-		vs/iFcUS3NFfnDpwgLtGmAIM/PU=
-		</data>
 		<key>Headers/BaseTableView.h</key>
 		<data>
 		NGSkrIdJP3SABnoU8bnOjtAR+/M=
@@ -90,7 +82,7 @@
 		</data>
 		<key>Headers/ZWKitHeader.h</key>
 		<data>
-		r3NMRPCbMpkoqmz9RzXpnGu1ON4=
+		mrfpuOa6RhEHdhIu2eHqcWiV8lY=
 		</data>
 		<key>Headers/ZWTools.h</key>
 		<data>
@@ -107,28 +99,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/BaseNavigationController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Jd3qw9gR8T6eEwVJ/vVvxCWdNF0=
-			</data>
-			<key>hash2</key>
-			<data>
-			e6Cm7nTs68pF4VsiBBUpDrQb3sfInVnuXW2LT/NW/lk=
-			</data>
-		</dict>
-		<key>Headers/BaseTabbarController.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vs/iFcUS3NFfnDpwgLtGmAIM/PU=
-			</data>
-			<key>hash2</key>
-			<data>
-			jI4/Y8dRuZ0Uu5Yf2YSQj7JhBTHd8vESwy4n1hculWQ=
-			</data>
-		</dict>
 		<key>Headers/BaseTableView.h</key>
 		<dict>
 			<key>hash</key>
@@ -342,11 +312,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r3NMRPCbMpkoqmz9RzXpnGu1ON4=
+			mrfpuOa6RhEHdhIu2eHqcWiV8lY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ibIeVZjCpbvp50jTpg7dGjJJDIxhCesmVuEDq3vmo8U=
+			sWyRaYZYqQvvVNMY/gomlNk8ONMt8q9Hs4Ztd0Qdv3I=
 			</data>
 		</dict>
 		<key>Headers/ZWTools.h</key>
